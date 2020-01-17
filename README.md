@@ -1,8 +1,10 @@
+![Screen shot of GateKeeper Helper in action.](screenshot.png)
+
 <p align="center">
 <br>
-<img alt="Screenshot" src="https://github.com/wynioux/macOS-GateKeeper-Helper/raw/master/screenshot.png">
+<!-- <img alt="Screenshot" src="screenshot.png">
 <br>
-<br>
+ --><br>
 <a href="https://github.com/wynioux/macOS-GateKeeper-Helper/releases/latest"><img alt="undefined" src="https://img.shields.io/github/release/wynioux/macOS-GateKeeper-Helper"></a>
 <a><img alt="undefined" src="https://img.shields.io/github/downloads/wynioux/macOS-GateKeeper-Helper/total"></a>
 <a href="https://github.com/wynioux/macOS-GateKeeper-Helper/blob/master/LICENSE.md"><img alt="undefined" src="https://img.shields.io/github/license/wynioux/macOS-GateKeeper-Helper"></a>
