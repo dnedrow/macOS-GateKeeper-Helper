@@ -1,1 +1,0 @@
-GateKeeper_Helper.command

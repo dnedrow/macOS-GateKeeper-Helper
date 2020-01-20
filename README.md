@@ -16,13 +16,13 @@
 
 This is a simple useful tool for both **Pro** & **Newbie** users which allow you to do the following:
 
-1. Disable Your GateKeeper.
-    > You can completely disable your gatekeeper -> Good For Professional Users.
+1. Disable GateKeeper.
+    >> Disabling GateKeeper is a very bad idea and creates a major security risk in macOS."
 
-2. Enable Your GateKeeper.
-    > You can completely enable your gatekeeper -> Good For Newbie Users.
+2. Enable GateKeeper.
+    >> The best option for macOS security. Used in conjunction with option 3.
 
-3. Allow Single App To ByPass The GateKeeper.
+3. Remove GateKeeper quarantine flag from an app.
     > If you don’t want to completely disable your gatekeeper then allow an individual app to pass it -> Recommended For All Users.
 
 4. Self-Sign An App.
